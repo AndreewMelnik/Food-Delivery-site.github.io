@@ -30,8 +30,8 @@
   "editorconfig-cli": [
     "*.json",
     "*.js",
-    "dist/*.html",
-    "dist/js/**/*.js"
+    "source/*.html",
+    "source/js/**/*.js"
   ]
 }
     
